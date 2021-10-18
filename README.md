@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NubLord19
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning informatica
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
